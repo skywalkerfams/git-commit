@@ -10,4 +10,6 @@ func main() {
 	fmt.Println("1+1")
 	fmt.Println("belajar golang")
 	fmt.Println("Ini tambahan baru untuk commit")
+
+	fmt.Println("Create new branch")
 }
